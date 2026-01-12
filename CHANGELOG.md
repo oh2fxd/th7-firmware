@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.2] - 2026-01-12
+- Built from commit 022031c
+- Release v1.0.2
+
 ## [1.0.1] - 2026-01-12
 - Built from commit eb1f78c
 - Initial release with Finnish translations
