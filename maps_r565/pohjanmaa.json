@@ -1,0 +1,1 @@
+{"crs": "EPSG:3857", "width": 1024, "height": 600, "x0": 1906849.478504701, "x1": 3029540.89329124, "y0": 8761138.56543446, "y1": 9418965.566285945, "pad_ratio": 0.18, "basemap": "OpenStreetMap.Mapnik", "zoom": null, "render_scale": 2}
